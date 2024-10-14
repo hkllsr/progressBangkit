@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HklFinale</string>
+    <string name="about_title">About</string>
+    <string name="my_name">Nama Anda</string>
+    <string name="my_email">emailanda@dicoding.com</string>
+    <string name="article_description">Deskripsi artikel tidak tersedia</string>
+</resources>
